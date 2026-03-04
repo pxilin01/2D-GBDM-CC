@@ -6,7 +6,7 @@ This repository provides the C source code and a test dataset (Sigsbee 2A) for t
 - **Compiler**: GCC/icc 
 - **Parallelization**: MPI (OpenMPI)
 - **Seismic Software**: [Seismic Unix (SU)](https://github.com/JohnWStockwellJr/SeisUnix) must be installed and added to your system PATH.
-
+- **Data**: SEG Sigsbee 2A model
 ## 2. Compilation
 Compile the program using the provided Makefile:make
 The executable oper will be generated.
